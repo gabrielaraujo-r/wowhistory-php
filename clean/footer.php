@@ -1,3 +1,6 @@
+<?php
+?>
+
 <div class="footer">
         <div class="linha">
             <footer>

@@ -1,3 +1,6 @@
+<?php
+?>
+
 <div class="conteudo-extra">
     <div class="linha">
         <div class="coluna col7">
@@ -29,20 +32,20 @@
                     <a href="http://amzn.to/29fzcrr" target="_blank"><h4>Alvorada dos Aspectos</h4></a>
                     <p>por Richard A. Knaak. Kalecgos, antigo Aspecto da Revoada Azul, ainda precisa se acostumar com a perda de seus poderes,
                     e o propósito...</p>
-                    <a href="livros.html">Leia mais &raquo;</a></p>
+                    <a href="livros.php">Leia mais &raquo;</a></p>
                 </li>
                 <li>
                     <img src="img/curse.jpg" alt="">
                     <a href="http://amzn.to/29d7vwN" target="_blank"><h4>Curse of the Worgen</h4></a>
                     <p>por Micky Neilson e James Waugh. Essa minissérie de quadrinhos acontece em dois pontos da linha do tempo de Warcraft...</p>
-                    <a href="livros.html">Leia mais &raquo;</a></p>
+                    <a href="livros.php">Leia mais &raquo;</a></p>
                 </li>
                 <li>
                     <img src="img/archive.jpg" alt="">
                     <a href="http://amzn.to/29d1Qrh" target="_blank"><h4>War of the Ancients Archive</h4></a>
                     <p>por Richard A. Knaak. Aqui, são três livros: The Well of Eternity, The Demon Soul, e The Sundering. Eles contam os eventos
                     do...</p>
-                    <a href="livros.html">Leia mais &raquo;</a></p>
+                    <a href="livros.php">Leia mais &raquo;</a></p>
                 </li>
             </ul>
         </div>

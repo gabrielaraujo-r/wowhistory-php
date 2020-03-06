@@ -20,7 +20,7 @@
                     <nav>
                         <ul class="menu inline sem-marcador cor linha1">
                             <li><a href="livros.php">LIVROS</a></li>
-                            <li><a href="histórias.php">HISTÓRIAS</a></li>
+                            <li><a href="historias.php">HISTÓRIAS</a></li>
                             <li><a href="quemsomos.php">SOBRE</a></li>
                             <li><a href="faleconosco.php">CONTATO</a></li>
                         </ul>
